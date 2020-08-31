@@ -208,7 +208,8 @@
         "name": "heap",
         "children": [
          {"name": "FibonacciHeap", "value": 9354},
-         {"name": "HeapNode", "value": 1233}
+         {"name": "HeapNode", "value": 1233},
+         {"name": "RightHeap", "value": 1733}
         ]
        },
        {"name": "IEvaluable", "value": 335},
