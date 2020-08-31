@@ -2,7 +2,7 @@
     "name": "flare",
     "children": [
      {
-      "name": "analytics",
+      "name": "Data",
       "children": [
        {
         "name": "cluster",
@@ -32,7 +32,7 @@
       ]
      },
      {
-      "name": "animate",
+      "name": "Employee",
       "children": [
        {"name": "Easing", "value": 17010},
        {"name": "FunctionSequence", "value": 5842},
@@ -111,7 +111,7 @@
       ]
      },
      {
-      "name": "query",
+      "name": "questions",
       "children": [
        {"name": "AggregateExpression", "value": 1616},
        {"name": "And", "value": 1027},
@@ -196,7 +196,7 @@
       ]
      },
      {
-      "name": "util",
+      "name": "Others",
       "children": [
        {"name": "Arrays", "value": 8258},
        {"name": "Colors", "value": 10001},
@@ -241,7 +241,7 @@
       ]
      },
      {
-      "name": "vis",
+      "name": "Product",
       "children": [
        {
         "name": "axis",
