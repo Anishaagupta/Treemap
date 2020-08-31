@@ -1,0 +1,482 @@
+"Type","Category","Date","Annual.total","Average.households","value"
+"Income","salary ",2015-01-01,43100,38500,3400
+"Income","interest income ",2015-01-01,360,750,90
+"Income","pesnion",2015-01-01,1800,6000,150
+"Income","stock dividend ",2015-01-01,4350,3800,2800
+"expenditures","rent",2015-01-01,14400,15000,1200
+"expenditures","lending rates",2015-01-01,524,600,50
+"expenditures","loan interest",2015-01-01,1080,1300,90
+"expenditures","food",2015-01-01,4133,4000,250
+"expenditures","gas",2015-01-01,1420,4000,100
+"expenditures","car insurance ",2015-01-01,960,1500,240
+"expenditures","clothes",2015-01-01,2703,1500,50
+"expenditures","shoes",2015-01-01,1055,700,150
+"expenditures","school for children",2015-01-01,1220,300,90
+"expenditures","homeowner´s insurance",2015-01-01,540,650,45
+"expenditures","bank charges",2015-01-01,180,200,15
+"expenditures","water",2015-01-01,960,750,80
+"expenditures","electricity ",2015-01-01,1080,1008,90
+"expenditures","heater",2015-01-01,1320,950,110
+"expenditures","cinema ",2015-01-01,90,70,25
+"expenditures","restaurant",2015-01-01,1445,1560,75
+"expenditures","entertainment",2015-01-01,6145,3120,89
+"expenditures","health care ",2015-01-01,1280,1200,150
+"surplus","surplus",2015-01-01,10355,17019,3691
+"Income","salary ",2015-02-01,43100,38500,3400
+"Income","interest income ",2015-02-01,360,750,0
+"Income","pesnion",2015-02-01,1800,6000,150
+"Income","stock dividend ",2015-02-01,4350,3800,0
+"expenditures","rent",2015-02-01,14400,15000,1200
+"expenditures","lending rates",2015-02-01,524,600,50
+"expenditures","loan interest",2015-02-01,1080,1300,90
+"expenditures","food",2015-02-01,4133,4000,300
+"expenditures","gas",2015-02-01,1420,4000,90
+"expenditures","car insurance ",2015-02-01,960,1500,0
+"expenditures","clothes",2015-02-01,2703,1500,70
+"expenditures","shoes",2015-02-01,1055,700,0
+"expenditures","school for children",2015-02-01,1220,300,70
+"expenditures","homeowner´s insurance",2015-02-01,540,650,45
+"expenditures","bank charges",2015-02-01,180,200,15
+"expenditures","water",2015-02-01,960,750,80
+"expenditures","electricity ",2015-02-01,1080,1008,90
+"expenditures","heater",2015-02-01,1320,950,110
+"expenditures","cinema ",2015-02-01,90,70,0
+"expenditures","restaurant",2015-02-01,1445,1560,120
+"expenditures","entertainment",2015-02-01,6145,3120,80
+"expenditures","health care ",2015-02-01,1280,1200,130
+"surplus","surplus",2015-02-01,10355,17019,1140
+"Income","salary ",2015-03-01,43100,38500,3400
+"Income","interest income ",2015-03-01,360,750,0
+"Income","pesnion",2015-03-01,1800,6000,150
+"Income","stock dividend ",2015-03-01,4350,3800,0
+"expenditures","rent",2015-03-01,14400,15000,1200
+"expenditures","lending rates",2015-03-01,524,600,47
+"expenditures","loan interest",2015-03-01,1080,1300,90
+"expenditures","food",2015-03-01,4133,4000,340
+"expenditures","gas",2015-03-01,1420,4000,110
+"expenditures","car insurance ",2015-03-01,960,1500,0
+"expenditures","clothes",2015-03-01,2703,1500,200
+"expenditures","shoes",2015-03-01,1055,700,200
+"expenditures","school for children",2015-03-01,1220,300,40
+"expenditures","homeowner´s insurance",2015-03-01,540,650,45
+"expenditures","bank charges",2015-03-01,180,200,15
+"expenditures","water",2015-03-01,960,750,80
+"expenditures","electricity ",2015-03-01,1080,1008,90
+"expenditures","heater",2015-03-01,1320,950,110
+"expenditures","cinema ",2015-03-01,90,70,20
+"expenditures","restaurant",2015-03-01,1445,1560,140
+"expenditures","entertainment",2015-03-01,6145,3120,95
+"expenditures","health care ",2015-03-01,1280,1200,100
+"surplus","surplus",2015-03-01,10355,17019,728
+"Income","salary ",2015-04-01,43100,38500,3400
+"Income","interest income ",2015-04-01,360,750,190
+"Income","pesnion",2015-04-01,1800,6000,150
+"Income","stock dividend ",2015-04-01,4350,3800,0
+"expenditures","rent",2015-04-01,14400,15000,1200
+"expenditures","lending rates",2015-04-01,524,600,47
+"expenditures","loan interest",2015-04-01,1080,1300,90
+"expenditures","food",2015-04-01,4133,4000,370
+"expenditures","gas",2015-04-01,1420,4000,105
+"expenditures","car insurance ",2015-04-01,960,1500,240
+"expenditures","clothes",2015-04-01,2703,1500,40
+"expenditures","shoes",2015-04-01,1055,700,70
+"expenditures","school for children",2015-04-01,1220,300,450
+"expenditures","homeowner´s insurance",2015-04-01,540,650,45
+"expenditures","bank charges",2015-04-01,180,200,15
+"expenditures","water",2015-04-01,960,750,80
+"expenditures","electricity ",2015-04-01,1080,1008,90
+"expenditures","heater",2015-04-01,1320,950,110
+"expenditures","cinema ",2015-04-01,90,70,20
+"expenditures","restaurant",2015-04-01,1445,1560,130
+"expenditures","entertainment",2015-04-01,6145,3120,75
+"expenditures","health care ",2015-04-01,1280,1200,100
+"surplus","surplus",2015-04-01,10355,17019,563
+"Income","salary ",2015-05-01,43100,38500,3400
+"Income","interest income ",2015-05-01,360,750,0
+"Income","pesnion",2015-05-01,1800,6000,150
+"Income","stock dividend ",2015-05-01,4350,3800,1300
+"expenditures","rent",2015-05-01,14400,15000,1200
+"expenditures","lending rates",2015-05-01,524,600,44
+"expenditures","loan interest",2015-05-01,1080,1300,90
+"expenditures","food",2015-05-01,4133,4000,380
+"expenditures","gas",2015-05-01,1420,4000,98
+"expenditures","car insurance ",2015-05-01,960,1500,0
+"expenditures","clothes",2015-05-01,2703,1500,340
+"expenditures","shoes",2015-05-01,1055,700,0
+"expenditures","school for children",2015-05-01,1220,300,80
+"expenditures","homeowner´s insurance",2015-05-01,540,650,45
+"expenditures","bank charges",2015-05-01,180,200,15
+"expenditures","water",2015-05-01,960,750,80
+"expenditures","electricity ",2015-05-01,1080,1008,90
+"expenditures","heater",2015-05-01,1320,950,110
+"expenditures","cinema ",2015-05-01,90,70,0
+"expenditures","restaurant",2015-05-01,1445,1560,50
+"expenditures","entertainment",2015-05-01,6145,3120,150
+"expenditures","health care ",2015-05-01,1280,1200,90
+"surplus","surplus",2015-05-01,10355,17019,2078
+"Income","salary ",2015-06-01,43100,38500,3400
+"Income","interest income ",2015-06-01,360,750,0
+"Income","pesnion",2015-06-01,1800,6000,150
+"Income","stock dividend ",2015-06-01,4350,3800,250
+"expenditures","rent",2015-06-01,14400,15000,1200
+"expenditures","lending rates",2015-06-01,524,600,44
+"expenditures","loan interest",2015-06-01,1080,1300,90
+"expenditures","food",2015-06-01,4133,4000,333
+"expenditures","gas",2015-06-01,1420,4000,140
+"expenditures","car insurance ",2015-06-01,960,1500,0
+"expenditures","clothes",2015-06-01,2703,1500,270
+"expenditures","shoes",2015-06-01,1055,700,110
+"expenditures","school for children",2015-06-01,1220,300,50
+"expenditures","homeowner´s insurance",2015-06-01,540,650,45
+"expenditures","bank charges",2015-06-01,180,200,15
+"expenditures","water",2015-06-01,960,750,80
+"expenditures","electricity ",2015-06-01,1080,1008,90
+"expenditures","heater",2015-06-01,1320,950,110
+"expenditures","cinema ",2015-06-01,90,70,0
+"expenditures","restaurant",2015-06-01,1445,1560,55
+"expenditures","entertainment",2015-06-01,6145,3120,111
+"expenditures","health care ",2015-06-01,1280,1200,70
+"surplus","surplus",2015-06-01,10355,17019,1057
+"Income","salary ",2015-07-01,43100,38500,4100
+"Income","interest income ",2015-07-01,360,750,0
+"Income","pesnion",2015-07-01,1800,6000,150
+"Income","stock dividend ",2015-07-01,4350,3800,0
+"expenditures","rent",2015-07-01,14400,15000,1200
+"expenditures","lending rates",2015-07-01,524,600,43
+"expenditures","loan interest",2015-07-01,1080,1300,90
+"expenditures","food",2015-07-01,4133,4000,370
+"expenditures","gas",2015-07-01,1420,4000,139
+"expenditures","car insurance ",2015-07-01,960,1500,240
+"expenditures","clothes",2015-07-01,2703,1500,130
+"expenditures","shoes",2015-07-01,1055,700,150
+"expenditures","school for children",2015-07-01,1220,300,100
+"expenditures","homeowner´s insurance",2015-07-01,540,650,45
+"expenditures","bank charges",2015-07-01,180,200,15
+"expenditures","water",2015-07-01,960,750,80
+"expenditures","electricity ",2015-07-01,1080,1008,90
+"expenditures","heater",2015-07-01,1320,950,110
+"expenditures","cinema ",2015-07-01,90,70,0
+"expenditures","restaurant",2015-07-01,1445,1560,70
+"expenditures","entertainment",2015-07-01,6145,3120,75
+"expenditures","health care ",2015-07-01,1280,1200,70
+"surplus","surplus",2015-07-01,10355,17019,1303
+"Income","salary ",2015-08-01,43100,38500,3400
+"Income","interest income ",2015-08-01,360,750,0
+"Income","pesnion",2015-08-01,1800,6000,150
+"Income","stock dividend ",2015-08-01,4350,3800,0
+"expenditures","rent",2015-08-01,14400,15000,1200
+"expenditures","lending rates",2015-08-01,524,600,43
+"expenditures","loan interest",2015-08-01,1080,1300,90
+"expenditures","food",2015-08-01,4133,4000,270
+"expenditures","gas",2015-08-01,1420,4000,170
+"expenditures","car insurance ",2015-08-01,960,1500,0
+"expenditures","clothes",2015-08-01,2703,1500,550
+"expenditures","shoes",2015-08-01,1055,700,65
+"expenditures","school for children",2015-08-01,1220,300,0
+"expenditures","homeowner´s insurance",2015-08-01,540,650,45
+"expenditures","bank charges",2015-08-01,180,200,15
+"expenditures","water",2015-08-01,960,750,80
+"expenditures","electricity ",2015-08-01,1080,1008,90
+"expenditures","heater",2015-08-01,1320,950,110
+"expenditures","cinema ",2015-08-01,90,70,25
+"expenditures","restaurant",2015-08-01,1445,1560,350
+"expenditures","entertainment",2015-08-01,6145,3120,5000
+"expenditures","health care ",2015-08-01,1280,1200,60
+"surplus","surplus",2015-08-01,10355,17019,-4553
+"Income","salary ",2015-09-01,43100,38500,3400
+"Income","interest income ",2015-09-01,360,750,80
+"Income","pesnion",2015-09-01,1800,6000,150
+"Income","stock dividend ",2015-09-01,4350,3800,0
+"expenditures","rent",2015-09-01,14400,15000,1200
+"expenditures","lending rates",2015-09-01,524,600,40
+"expenditures","loan interest",2015-09-01,1080,1300,90
+"expenditures","food",2015-09-01,4133,4000,340
+"expenditures","gas",2015-09-01,1420,4000,150
+"expenditures","car insurance ",2015-09-01,960,1500,0
+"expenditures","clothes",2015-09-01,2703,1500,90
+"expenditures","shoes",2015-09-01,1055,700,80
+"expenditures","school for children",2015-09-01,1220,300,150
+"expenditures","homeowner´s insurance",2015-09-01,540,650,45
+"expenditures","bank charges",2015-09-01,180,200,15
+"expenditures","water",2015-09-01,960,750,80
+"expenditures","electricity ",2015-09-01,1080,1008,90
+"expenditures","heater",2015-09-01,1320,950,110
+"expenditures","cinema ",2015-09-01,90,70,0
+"expenditures","restaurant",2015-09-01,1445,1560,130
+"expenditures","entertainment",2015-09-01,6145,3120,90
+"expenditures","health care ",2015-09-01,1280,1200,100
+"surplus","surplus",2015-09-01,10355,17019,930
+"Income","salary ",2015-10-01,43100,38500,3400
+"Income","interest income ",2015-10-01,360,750,0
+"Income","pesnion",2015-10-01,1800,6000,150
+"Income","stock dividend ",2015-10-01,4350,3800,0
+"expenditures","rent",2015-10-01,14400,15000,1200
+"expenditures","lending rates",2015-10-01,524,600,40
+"expenditures","loan interest",2015-10-01,1080,1300,90
+"expenditures","food",2015-10-01,4133,4000,390
+"expenditures","gas",2015-10-01,1420,4000,100
+"expenditures","car insurance ",2015-10-01,960,1500,240
+"expenditures","clothes",2015-10-01,2703,1500,75
+"expenditures","shoes",2015-10-01,1055,700,0
+"expenditures","school for children",2015-10-01,1220,300,50
+"expenditures","homeowner´s insurance",2015-10-01,540,650,45
+"expenditures","bank charges",2015-10-01,180,200,15
+"expenditures","water",2015-10-01,960,750,80
+"expenditures","electricity ",2015-10-01,1080,1008,90
+"expenditures","heater",2015-10-01,1320,950,110
+"expenditures","cinema ",2015-10-01,90,70,0
+"expenditures","restaurant",2015-10-01,1445,1560,110
+"expenditures","entertainment",2015-10-01,6145,3120,95
+"expenditures","health care ",2015-10-01,1280,1200,130
+"surplus","surplus",2015-10-01,10355,17019,820
+"Income","salary ",2015-11-01,43100,38500,3400
+"Income","interest income ",2015-11-01,360,750,0
+"Income","pesnion",2015-11-01,1800,6000,150
+"Income","stock dividend ",2015-11-01,4350,3800,0
+"expenditures","rent",2015-11-01,14400,15000,1200
+"expenditures","lending rates",2015-11-01,524,600,38
+"expenditures","loan interest",2015-11-01,1080,1300,90
+"expenditures","food",2015-11-01,4133,4000,340
+"expenditures","gas",2015-11-01,1420,4000,103
+"expenditures","car insurance ",2015-11-01,960,1500,0
+"expenditures","clothes",2015-11-01,2703,1500,88
+"expenditures","shoes",2015-11-01,1055,700,100
+"expenditures","school for children",2015-11-01,1220,300,70
+"expenditures","homeowner´s insurance",2015-11-01,540,650,45
+"expenditures","bank charges",2015-11-01,180,200,15
+"expenditures","water",2015-11-01,960,750,80
+"expenditures","electricity ",2015-11-01,1080,1008,90
+"expenditures","heater",2015-11-01,1320,950,110
+"expenditures","cinema ",2015-11-01,90,70,0
+"expenditures","restaurant",2015-11-01,1445,1560,65
+"expenditures","entertainment",2015-11-01,6145,3120,85
+"expenditures","health care ",2015-11-01,1280,1200,150
+"surplus","surplus",2015-11-01,10355,17019,1031
+"Income","salary ",2015-12-01,43100,38500,5000
+"Income","pesnion",2015-12-01,1800,6000,150
+"Income","stock dividend ",2015-12-01,4350,3800,0
+"expenditures","rent",2015-12-01,14400,15000,1200
+"expenditures","lending rates",2015-12-01,524,600,38
+"expenditures","loan interest",2015-12-01,1080,1300,90
+"expenditures","food",2015-12-01,4133,4000,450
+"expenditures","gas",2015-12-01,1420,4000,115
+"expenditures","car insurance ",2015-12-01,960,1500,0
+"expenditures","clothes",2015-12-01,2703,1500,800
+"expenditures","shoes",2015-12-01,1055,700,130
+"expenditures","school for children",2015-12-01,1220,300,70
+"expenditures","homeowner´s insurance",2015-12-01,540,650,45
+"expenditures","bank charges",2015-12-01,180,200,15
+"expenditures","water",2015-12-01,960,750,80
+"expenditures","electricity ",2015-12-01,1080,1008,90
+"expenditures","heater",2015-12-01,1320,950,110
+"expenditures","cinema ",2015-12-01,90,70,0
+"expenditures","restaurant",2015-12-01,1445,1560,150
+"expenditures","entertainment",2015-12-01,6145,3120,200
+"expenditures","health care ",2015-12-01,1280,1200,130
+"surplus","surplus",2015-12-01,10355,17019,1567
+"Income","salary ",2016-01-01,43100,38500,3500
+"Income","interest income ",2016-01-01,360,750,0
+"Income","pesnion",2016-01-01,1800,6000,150
+"Income","stock dividend ",2016-01-01,4350,3800,2800
+"expenditures","rent",2016-01-01,14400,15000,1200
+"expenditures","lending rates",2016-01-01,524,600,60
+"expenditures","loan interest",2016-01-01,1080,1300,90
+"expenditures","food",2016-01-01,4133,4000,300
+"expenditures","gas",2016-01-01,1420,4000,130
+"expenditures","car insurance ",2016-01-01,960,1500,240
+"expenditures","clothes",2016-01-01,2703,1500,130
+"expenditures","shoes",2016-01-01,1055,700,0
+"expenditures","school for children",2016-01-01,1220,300,90
+"expenditures","homeowner´s insurance",2016-01-01,540,650,45
+"expenditures","bank charges",2016-01-01,180,200,15
+"expenditures","water",2016-01-01,960,750,80
+"expenditures","electricity ",2016-01-01,1080,1008,90
+"expenditures","heater",2016-01-01,1320,950,110
+"expenditures","cinema ",2016-01-01,90,70,0
+"expenditures","restaurant",2016-01-01,1445,1560,130
+"expenditures","entertainment",2016-01-01,6145,3120,200
+"expenditures","health care ",2016-01-01,1280,1200,140
+"surplus","surplus",2016-01-01,10355,17019,3540
+"Income","salary ",2016-02-01,43100,38500,3500
+"Income","pesnion",2016-02-01,1800,6000,150
+"Income","stock dividend ",2016-02-01,4350,3800,0
+"expenditures","rent",2016-02-01,14400,15000,1200
+"expenditures","lending rates",2016-02-01,524,600,60
+"expenditures","loan interest",2016-02-01,1080,1300,90
+"expenditures","food",2016-02-01,4133,4000,210
+"expenditures","gas",2016-02-01,1420,4000,110
+"expenditures","car insurance ",2016-02-01,960,1500,0
+"expenditures","clothes",2016-02-01,2703,1500,90
+"expenditures","shoes",2016-02-01,1055,700,80
+"expenditures","school for children",2016-02-01,1220,300,70
+"expenditures","homeowner´s insurance",2016-02-01,540,650,45
+"expenditures","bank charges",2016-02-01,180,200,15
+"expenditures","water",2016-02-01,960,750,80
+"expenditures","electricity ",2016-02-01,1080,1008,90
+"expenditures","heater",2016-02-01,1320,950,110
+"expenditures","cinema ",2016-02-01,90,70,30
+"expenditures","restaurant",2016-02-01,1445,1560,80
+"expenditures","entertainment",2016-02-01,6145,3120,150
+"expenditures","health care ",2016-02-01,1280,1200,120
+"surplus","surplus",2016-02-01,10355,17019,1140
+"Income","salary ",2016-03-01,43100,38500,3500
+"Income","interest income ",2016-03-01,360,750,0
+"Income","pesnion",2016-03-01,1800,6000,150
+"Income","stock dividend ",2016-03-01,4350,3800,0
+"expenditures","rent",2016-03-01,14400,15000,1200
+"expenditures","lending rates",2016-03-01,524,600,57
+"expenditures","loan interest",2016-03-01,1080,1300,88
+"expenditures","food",2016-03-01,4133,4000,320
+"expenditures","gas",2016-03-01,1420,4000,140
+"expenditures","car insurance ",2016-03-01,960,1500,0
+"expenditures","clothes",2016-03-01,2703,1500,140
+"expenditures","shoes",2016-03-01,1055,700,100
+"expenditures","school for children",2016-03-01,1220,300,50
+"expenditures","homeowner´s insurance",2016-03-01,540,650,45
+"expenditures","bank charges",2016-03-01,180,200,15
+"expenditures","water",2016-03-01,960,750,80
+"expenditures","electricity ",2016-03-01,1080,1008,90
+"expenditures","heater",2016-03-01,1320,950,110
+"expenditures","cinema ",2016-03-01,90,70,25
+"expenditures","restaurant",2016-03-01,1445,1560,140
+"expenditures","entertainment",2016-03-01,6145,3120,90
+"expenditures","health care ",2016-03-01,1280,1200,124
+"surplus","surplus",2016-03-01,10355,17019,960
+"Income","salary ",2016-04-01,43100,38500,3500
+"Income","interest income ",2016-04-01,360,750,400
+"Income","pesnion",2016-04-01,1800,6000,150
+"Income","stock dividend ",2016-04-01,4350,3800,0
+"expenditures","rent",2016-04-01,14400,15000,1200
+"expenditures","lending rates",2016-04-01,524,600,56
+"expenditures","loan interest",2016-04-01,1080,1300,86
+"expenditures","food",2016-04-01,4133,4000,270
+"expenditures","gas",2016-04-01,1420,4000,140
+"expenditures","car insurance ",2016-04-01,960,1500,240
+"expenditures","clothes",2016-04-01,2703,1500,120
+"expenditures","shoes",2016-04-01,1055,700,110
+"expenditures","school for children",2016-04-01,1220,300,70
+"expenditures","homeowner´s insurance",2016-04-01,540,650,45
+"expenditures","bank charges",2016-04-01,180,200,15
+"expenditures","water",2016-04-01,960,750,80
+"expenditures","electricity ",2016-04-01,1080,1008,90
+"expenditures","heater",2016-04-01,1320,950,110
+"expenditures","cinema ",2016-04-01,90,70,0
+"expenditures","restaurant",2016-04-01,1445,1560,150
+"expenditures","entertainment",2016-04-01,6145,3120,140
+"expenditures","health care ",2016-04-01,1280,1200,90
+"surplus","surplus",2016-04-01,10355,17019,1128
+"Income","salary ",2016-05-01,43100,38500,3500
+"Income","interest income ",2016-05-01,360,750,200
+"Income","pesnion",2016-05-01,1800,6000,150
+"Income","stock dividend ",2016-05-01,4350,3800,1300
+"expenditures","rent",2016-05-01,14400,15000,1200
+"expenditures","lending rates",2016-05-01,524,600,55
+"expenditures","loan interest",2016-05-01,1080,1300,85
+"expenditures","food",2016-05-01,4133,4000,330
+"expenditures","gas",2016-05-01,1420,4000,120
+"expenditures","car insurance ",2016-05-01,960,1500,0
+"expenditures","clothes",2016-05-01,2703,1500,110
+"expenditures","shoes",2016-05-01,1055,700,90
+"expenditures","school for children",2016-05-01,1220,300,74
+"expenditures","homeowner´s insurance",2016-05-01,540,650,45
+"expenditures","bank charges",2016-05-01,180,200,15
+"expenditures","water",2016-05-01,960,750,80
+"expenditures","electricity ",2016-05-01,1080,1008,90
+"expenditures","heater",2016-05-01,1320,950,110
+"expenditures","cinema ",2016-05-01,90,70,0
+"expenditures","restaurant",2016-05-01,1445,1560,100
+"expenditures","entertainment",2016-05-01,6145,3120,111
+"expenditures","health care ",2016-05-01,1280,1200,99
+"surplus","surplus",2016-05-01,10355,17019,2535
+"Income","salary ",2016-06-01,43100,38500,3500
+"Income","interest income ",2016-06-01,360,750,0
+"Income","pesnion",2016-06-01,1800,6000,150
+"Income","stock dividend ",2016-06-01,4350,3800,250
+"expenditures","rent",2016-06-01,14400,15000,1200
+"expenditures","lending rates",2016-06-01,524,600,53
+"expenditures","loan interest",2016-06-01,1080,1300,63
+"expenditures","food",2016-06-01,4133,4000,330
+"expenditures","gas",2016-06-01,1420,4000,111
+"expenditures","car insurance ",2016-06-01,960,1500,0
+"expenditures","clothes",2016-06-01,2703,1500,100
+"expenditures","shoes",2016-06-01,1055,700,0
+"expenditures","school for children",2016-06-01,1220,300,67
+"expenditures","homeowner´s insurance",2016-06-01,540,650,45
+"expenditures","bank charges",2016-06-01,180,200,15
+"expenditures","water",2016-06-01,960,750,80
+"expenditures","electricity ",2016-06-01,1080,1008,90
+"expenditures","heater",2016-06-01,1320,950,110
+"expenditures","cinema ",2016-06-01,90,70,30
+"expenditures","restaurant",2016-06-01,1445,1560,86
+"expenditures","entertainment",2016-06-01,6145,3120,80
+"expenditures","health care ",2016-06-01,1280,1200,70
+"surplus","surplus",2016-06-01,10355,17019,1440
+"Income","salary ",2016-07-01,43100,38500,4100
+"Income","interest income ",2016-07-01,360,750,0
+"Income","pesnion",2016-07-01,1800,6000,150
+"Income","stock dividend ",2016-07-01,4350,3800,0
+"expenditures","rent",2016-07-01,14400,15000,1200
+"expenditures","lending rates",2016-07-01,524,600,50
+"expenditures","loan interest",2016-07-01,1080,1300,81
+"expenditures","food",2016-07-01,4133,4000,350
+"expenditures","gas",2016-07-01,1420,4000,140
+"expenditures","car insurance ",2016-07-01,960,1500,240
+"expenditures","clothes",2016-07-01,2703,1500,130
+"expenditures","shoes",2016-07-01,1055,700,110
+"expenditures","school for children",2016-07-01,1220,300,77
+"expenditures","homeowner´s insurance",2016-07-01,540,650,45
+"expenditures","bank charges",2016-07-01,180,200,15
+"expenditures","water",2016-07-01,960,750,80
+"expenditures","electricity ",2016-07-01,1080,1008,90
+"expenditures","heater",2016-07-01,1320,950,110
+"expenditures","cinema ",2016-07-01,90,70,15
+"expenditures","restaurant",2016-07-01,1445,1560,135
+"expenditures","entertainment",2016-07-01,6145,3120,200
+"expenditures","health care ",2016-07-01,1280,1200,50
+"surplus","surplus",2016-07-01,10355,17019,1182
+"Income","salary ",2016-08-01,43100,38500,3500
+"Income","interest income ",2016-08-01,360,750,0
+"Income","pesnion",2016-08-01,1800,6000,150
+"Income","stock dividend ",2016-08-01,4350,3800,0
+"expenditures","rent",2016-08-01,14400,15000,1200
+"expenditures","lending rates",2016-08-01,524,600,48
+"expenditures","loan interest",2016-08-01,1080,1300,80
+"expenditures","food",2016-08-01,4133,4000,370
+"expenditures","gas",2016-08-01,1420,4000,99
+"expenditures","car insurance ",2016-08-01,960,1500,0
+"expenditures","clothes",2016-08-01,2703,1500,120
+"expenditures","shoes",2016-08-01,1055,700,200
+"expenditures","school for children",2016-08-01,1220,300,0
+"expenditures","homeowner´s insurance",2016-08-01,540,650,45
+"expenditures","bank charges",2016-08-01,180,200,15
+"expenditures","water",2016-08-01,960,750,80
+"expenditures","electricity ",2016-08-01,1080,1008,90
+"expenditures","heater",2016-08-01,1320,950,110
+"expenditures","cinema ",2016-08-01,90,70,0
+"expenditures","restaurant",2016-08-01,1445,1560,200
+"expenditures","entertainment",2016-08-01,6145,3120,170
+"expenditures","health care ",2016-08-01,1280,1200,65
+"surplus","surplus",2016-08-01,10355,17019,823
+"Income","salary ",2016-09-01,43100,38500,3500
+"Income","interest income ",2016-09-01,360,750,0
+"Income","pesnion",2016-09-01,1800,6000,150
+"Income","stock dividend ",2016-09-01,4350,3800,0
+"expenditures","rent",2016-09-01,14400,15000,1200
+"expenditures","lending rates",2016-09-01,524,600,47
+"expenditures","loan interest",2016-09-01,1080,1300,79
+"expenditures","food",2016-09-01,4133,4000,250
+"expenditures","gas",2016-09-01,1420,4000,160
+"expenditures","car insurance ",2016-09-01,960,1500,0
+"expenditures","clothes",2016-09-01,2703,1500,95
+"expenditures","shoes",2016-09-01,1055,700,170
+"expenditures","school for children",2016-09-01,1220,300,88
+"expenditures","homeowner´s insurance",2016-09-01,540,650,45
+"expenditures","bank charges",2016-09-01,180,200,15
+"expenditures","water",2016-09-01,960,750,80
+"expenditures","electricity ",2016-09-01,1080,1008,90
+"expenditures","heater",2016-09-01,1320,950,110
+"expenditures","cinema ",2016-09-01,90,70,20
+"expenditures","restaurant",2016-09-01,1445,1560,165
+"expenditures","entertainment",2016-09-01,6145,3120,130
+"expenditures","health care ",2016-09-01,1280,1200,56
+"surplus","surplus",2016-09-01,10355,17019,906
